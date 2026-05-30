@@ -1,0 +1,4 @@
+﻿pair,kappa,raw_agreement_pct,n_conflict,n_valid,interpretation
+LLM vs Ricky (Annotator A),0.9833,99.88,2,1700,Almost Perfect
+LLM vs Sinclair (Annotator B),0.9833,99.88,2,1700,Almost Perfect
+Ricky vs Sinclair (Human IAA),1.0,100.0,0,1700,Almost Perfect

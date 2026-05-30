@@ -1,0 +1,36 @@
+# SpamShield — Python dependencies
+# Install AFTER PyTorch (see environment_setup.sh)
+# pip install -r requirements.txt
+
+# HuggingFace
+transformers>=4.40.0
+datasets>=2.18.0
+tokenizers>=0.19.0
+accelerate>=0.29.0
+
+# Hyperparameter optimization
+optuna>=3.6.0
+optuna-dashboard>=0.15.0
+plotly>=5.20.0
+
+# ML utilities
+scikit-learn>=1.4.0
+scipy>=1.13.0
+
+# Data
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Progress
+tqdm>=4.66.0
+
+# Jupyter
+jupyter>=1.0.0
+jupyterlab>=4.1.0
+notebook>=7.1.0
+ipywidgets>=8.1.0
+ipykernel>=6.29.0

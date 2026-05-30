@@ -1,0 +1,46 @@
+{
+  "model_A": {
+    "best_val_f1": 0.9746246532540302,
+    "params": {
+      "lr_roberta": 3.943590987013728e-05,
+      "lr_multiplier": 9,
+      "batch_size": 16,
+      "dropout": 0.2,
+      "weight_decay": 0.013499404659630617,
+      "warmup_ratio": 0.24230435937610456
+    }
+  },
+  "model_B": {
+    "best_val_f1": 0.9192170477772366,
+    "params": {
+      "lr_roberta": 6.86075280820348e-05,
+      "lr_multiplier": 15,
+      "batch_size": 16,
+      "dropout": 0.15000000000000002,
+      "weight_decay": 0.05765995630232035,
+      "warmup_ratio": 0.05306112010321313
+    }
+  },
+  "model_C": {
+    "best_val_f1": 0.9753600446613807,
+    "params": {
+      "lr_roberta": 4.418347455292274e-05,
+      "lr_multiplier": 14,
+      "batch_size": 16,
+      "dropout": 0.3,
+      "weight_decay": 0.01171019059684262,
+      "warmup_ratio": 0.11374851919923137
+    }
+  },
+  "model_D": {
+    "best_val_f1": 0.9733843825701862,
+    "params": {
+      "lr_roberta": 3.1245160951798184e-05,
+      "lr_multiplier": 5,
+      "batch_size": 16,
+      "dropout": 0.25,
+      "weight_decay": 0.07371056161277793,
+      "warmup_ratio": 0.12865502546101906
+    }
+  }
+}
