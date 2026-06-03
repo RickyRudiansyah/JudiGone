@@ -1,0 +1,13 @@
+{
+  "model": "C_mlp",
+  "best_val_f1": 0.9728901819186773,
+  "params": {
+    "lr_roberta": 3.6327958247964044e-05,
+    "lr_multiplier": 16,
+    "batch_size": 32,
+    "dropout": 0.25,
+    "weight_decay": 0.007407731502698014,
+    "warmup_ratio": 0.1821154422941768
+  },
+  "epochs": 10
+}
