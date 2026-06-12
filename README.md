@@ -25,7 +25,7 @@
 | Nama | NIM | Peran |
 |------|-----|-------|
 | **Ricky Rudiansyah** | 2702243016 | Pipeline, Modeling, Evaluasi, Feature Engineering |
-| **Nicholas Sinclair Alfianto** | 2702208581 | Data Scraping, Labeling, IAA, Analisis Statistik |
+
 
 ---
 
