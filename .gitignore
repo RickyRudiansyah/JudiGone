@@ -1,0 +1,39 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+
+# Conda env (never commit)
+spamshield/
+env/
+
+# Large data files
+*.csv
+!final_results/*.csv
+!iaa/output/iaa_1700_report_summary.csv
+
+# Model checkpoints / Optuna studies
+*.pkl
+*.pt
+*.bin
+*.safetensors
+
+# PDFs
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

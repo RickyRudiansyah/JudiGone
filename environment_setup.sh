@@ -80,9 +80,9 @@ source "$(conda info --base)/etc/profile.d/conda.sh"
 conda activate $ENV_NAME
 echo "  ✅ Activated: $CONDA_DEFAULT_ENV"
 
-# ── Step 5: Install PyTorch (CUDA 12.6) ──────────────────────────
+# ── Step 5: Install PyTorch (CUDA 12.8 via cu126 wheels) ──────────
 echo ""
-echo "[5/7] Installing PyTorch with CUDA 12.6..."
+echo "[5/7] Installing PyTorch with CUDA 12.8..."
 echo "  (This may take several minutes — ~2.5GB download)"
 
 pip install torch torchvision torchaudio \
